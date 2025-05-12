@@ -1,1 +1,1 @@
-DICE_MOSAIC_ART
+Dice_Mosaic_Art
